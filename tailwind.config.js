@@ -308,6 +308,9 @@ module.exports = {
                     900: '#311b92',
                 },
             },
+            minWidth: {
+               '10': '10rem',
+            }
         },
     },
     variants: {
